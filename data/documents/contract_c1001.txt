@@ -1,0 +1,12 @@
+SYNTHETIC TRAINING DOCUMENT — NOT A REAL CONTRACT
+
+Document: CONTRACT-C1001-2026
+Customer reference: C1001
+Type: Customer service agreement
+
+Service term: The initial service term is twelve months from the effective date.
+Renewal: Renewal requires written confirmation by both parties at least thirty days before the end of the current term.
+Support: Standard support is available during business hours. Critical incidents are acknowledged within four business hours.
+Billing: Fees are invoiced monthly in the agreed currency, subject to the executed order form and applicable taxes.
+
+These fictional terms exist only to demonstrate vector retrieval. They are not actual contractual terms for a real customer.

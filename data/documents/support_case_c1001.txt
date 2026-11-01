@@ -1,0 +1,12 @@
+SYNTHETIC TRAINING DOCUMENT — NOT A REAL SUPPORT RECORD
+
+Document: SUPPORT-NOTE-C1001-01
+Customer reference: C1001
+Type: Support case note
+
+Issue summary: The customer reported intermittent access failures for a subset of users.
+Investigation: Support requested timestamps, affected user identifiers and browser/network details.
+Current position: This note does not establish a confirmed root cause or a resolution.
+Next action: Collect the requested diagnostic details and update the case after technical validation.
+
+This fictional note exists only to demonstrate document retrieval.
